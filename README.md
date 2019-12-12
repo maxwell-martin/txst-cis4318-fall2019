@@ -1,1 +1,1 @@
-The projects in this repository were created using IntelliJ and deployed via a localhost Apache Tomcat server. Some projects connect to a MySQL database.
+The projects in this repository were created using IntelliJ and deployed via a localhost Apache Tomcat server for testing. Tools used: Java, JSP, Servlets, Filters, Listeners, Maven, Property files, Sessions, Cookies, MySQL and Connector J, JSTL, HTML, CSS, etc.
