@@ -1,0 +1,1 @@
+The projects in this repository were created using IntelliJ and deployed via a localhost Apache Tomcat server. Some projects connect to a MySQL database.
