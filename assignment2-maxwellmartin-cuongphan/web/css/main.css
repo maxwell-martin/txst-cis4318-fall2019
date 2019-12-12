@@ -1,0 +1,98 @@
+.index-box {
+    width: 400px;
+    margin: auto;
+    border: 4px solid steelblue;
+    padding: 10px;
+}
+
+.results-box {
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.index-textboxes {
+    width: 15em;
+    float: right;
+    margin-right: 40px;
+    margin-bottom: 0.5em;
+    border: 4px solid steelblue;
+}
+
+.index-submit {
+    margin: 1em auto;
+    height: 30px;
+    width: 90px;
+    border: 4px solid steelblue;
+    display: block;
+    background-color: white;
+    color: steelblue;
+    padding: 2px;
+}
+
+.results-submit {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    width: 80px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.results-submitbtns-table {
+    margin-left: 71px;
+}
+
+label {
+    width: 6em;
+    margin-bottom: 0.5em;
+    margin-left: 3em;
+    color: steelblue;
+}
+
+br {
+    clear: both;
+}
+
+.results-table {
+    width: 800px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border: 2px solid black;
+    margin-left: 50px;
+}
+
+table.results-table th {
+    border: 2px solid black;
+}
+
+table.results-table td {
+    border: 2px solid black;
+}
+
+.td-padleft {
+    padding-left: 50px;
+}
+
+.td-right {
+    text-align: right;
+}
+
+.results-textboxes {
+    border: 2px solid black;
+    width: 157px;
+}
+
+.results-container-table {
+    width: 100%;
+}
+
+#firstTxt {
+    margin-left: 50px;
+}
+
+p {
+    margin-left: 50px;
+}

@@ -1,0 +1,33 @@
+body {
+    margin: auto;
+    width: 50%;
+    border: 2px dotted blue;
+    padding: 10px;
+    text-align: center;
+}
+
+form {
+    margin: 5px;
+    padding: 10px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+select {
+    margin-bottom: 20px;
+}
+
+#cards {
+    margin-bottom: 20px;
+}
+
+div > select {
+    margin-bottom: 0;
+}
+
+table {
+    margin: auto;
+    width: 75%;
+}

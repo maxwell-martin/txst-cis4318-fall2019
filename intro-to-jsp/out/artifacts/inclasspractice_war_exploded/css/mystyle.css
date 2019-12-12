@@ -1,0 +1,10 @@
+body {
+    background-color: yellow;
+}
+
+#formDiv {
+    border: 3px solid blue;
+    width: 20%;
+    margin: auto;
+    padding: 10px;
+}

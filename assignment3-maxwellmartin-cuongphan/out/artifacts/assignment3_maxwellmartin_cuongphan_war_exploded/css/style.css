@@ -1,0 +1,46 @@
+#container {
+    width: 400px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#checkoutContainer {
+    width: 750px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+form {
+    text-align: center;
+}
+
+table {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+#checkoutTable {
+    width: 75%;
+    margin: auto;
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+#checkoutButtons {
+    text-align: center;
+}
+
+#checkoutButtonsTable {
+    width: 20%;
+    margin: auto;
+    text-align: left;
+}
